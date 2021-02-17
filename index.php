@@ -14,7 +14,7 @@
             <p>escritorio@ivanilsoncontabilidade.com.br</p>
             <p>Cel. (84) 99819-7040</p>
             <p>Rua João Batista de Melo, 52</p>
-            <p>Cerro Corá</p>
+            <p>Cerro Corá - RN</p>
         </div>
     </body>    
 </html>
