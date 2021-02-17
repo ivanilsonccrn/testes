@@ -12,6 +12,7 @@
         </div>
         <div>
             <p>escritorio@ivanilsoncontabilidade.com.br</p>
+            <p>Cel. (84) 99819-7040</p>
         </div>
     </body>    
 </html>
