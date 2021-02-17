@@ -6,5 +6,6 @@
     </head>
     <body>
         <h1>Curso GIT</h1>
+        <p><Bem vindos!/p>
     </body>
 </html>
